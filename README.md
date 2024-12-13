@@ -17,7 +17,7 @@ I am an optimistic individual with a balanced set of strengths. My background as
 
 I got my Bachelor Degree from the Universitas Bina Sarana Informatika and during my studies I had experience as a Quality Assurance at PT Bluebird Group TBK for 2 years with the MyBluebird (MyBB) product, which involved making test plans to making test result reports.
 
-And the following is the complete portfolio and data that I have included:
+And the following is the complete portfolio and data that I have included
 
 ## CV
 You can view or download my CV as [a PDF from my Google Drive](https://drive.google.com/file/d/1CtRbeH_CPMW10jGhspoNa2wtKEp2JtJD/view?usp=sharing).
