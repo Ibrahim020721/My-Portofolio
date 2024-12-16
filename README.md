@@ -27,11 +27,13 @@ You can view or download my CV as [a PDF from my Google Drive](https://drive.goo
 You can find examples of the described skills in the [Examples of my work](#examples-of-my-work) section.
 
 __Manual testing__
+
 Can perform manual functional and usability testing of web and mobile applications (in android and iOS) for:
   * Check whether the display shown in the application is appropriate
   * Ensure new features created function and run as they should in the appropriate flow
 
 __Regression testing__
+
 Test various new features that have been combined in one version of the application for
   * Changing Old Features Still Functioning
   * Detecting whether there are New Bugs from the features to be added
@@ -39,6 +41,7 @@ Test various new features that have been combined in one version of the applicat
   * Responding to Compatibility in applications that want to diet by using various types of device versions
 
 __UAT testing (In Alpha test)__
+
 UAT in alpha testing ensures the application meets end users' needs and expectations before wide release. It serves several key functions during this stage
   * UValidating Compliance with User Needs
   * Identifying User Experience Problems
