@@ -75,7 +75,7 @@ __SoapUI__
 __Browser developer tools__
 
 __VirtualBox__
-  * able to set up and operate virtual machines
+  * able to set up and operate virtual machines 
 
 __Trello and Notion__
   * know how to use Kanban boards and track project progress
